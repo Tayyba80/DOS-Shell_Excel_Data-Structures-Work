@@ -1,0 +1,6 @@
+﻿  dos.cpp
+C:\Users\Personal\Desktop\finalProject\dos\dos.h(324,12): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\Personal\Desktop\finalProject\dos\dos.h(346,12): warning C4129: '&': unrecognized character escape sequence
+C:\Users\Personal\Desktop\finalProject\dos\dos.h(164,35): warning C4101: 'e': unreferenced local variable
+C:\Users\Personal\Desktop\finalProject\dos\notepad.h(508): warning C4715: 'notepad::findString': not all control paths return a value
+  dos.vcxproj -> C:\Users\Personal\Desktop\finalProject\dos\x64\Debug\dos.exe
