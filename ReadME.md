@@ -1,4 +1,4 @@
-# Data Structures and Algorithum
+# Data Structures and Algorithm
 
 My third semester projects.
 
